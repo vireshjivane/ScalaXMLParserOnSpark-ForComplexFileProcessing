@@ -1,0 +1,84 @@
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk101 
+xPath => catalog/book/author/, Data => Gambardella, Matthew, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => XML Developer's Guide, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Computer, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 44.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2000-10-01, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => An in-depth look at creating applications            with XML., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk102 
+xPath => catalog/book/author/, Data => Ralls, Kim, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => Midnight Rain, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Fantasy, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 5.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2000-12-16, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => A former architect battles corporate zombies,            an evil sorceress, and her own childhood to become queen            of the world., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk103 
+xPath => catalog/book/author/, Data => Corets, Eva, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => Maeve Ascendant, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Fantasy, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 5.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2000-11-17, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => After the collapse of a nanotechnology            society in England, the young survivors lay the            foundation for a new society., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk104 
+xPath => catalog/book/author/, Data => Corets, Eva, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => Oberon's Legacy, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Fantasy, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 5.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2001-03-10, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => In post-apocalypse England, the mysterious            agent known only as Oberon helps to create a new life            for the inhabitants of London. Sequel to Maeve            Ascendant., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk105 
+xPath => catalog/book/author/, Data => Corets, Eva, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => The Sundered Grail, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Fantasy, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 5.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2001-09-10, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => The two daughters of Maeve, half-sisters,            battle one another for control of England. Sequel to            Oberon's Legacy., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk106 
+xPath => catalog/book/author/, Data => Randall, Cynthia, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => Lover Birds, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Romance, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 4.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2000-09-02, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => When Carla meets Paul at an ornithology            conference, tempers fly as feathers get ruffled., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk107 
+xPath => catalog/book/author/, Data => Thurman, Paula, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => Splish Splash, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Romance, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 4.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2000-11-02, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => A deep sea diver finds true love twenty            thousand leagues beneath the sea., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk108 
+xPath => catalog/book/author/, Data => Knorr, Stefan, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => Creepy Crawlies, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Horror, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 4.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2000-12-06, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => An anthology of horror stories about roaches,            centipedes, scorpions  and other insects., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk109 
+xPath => catalog/book/author/, Data => Kress, Peter, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => Paradox Lost, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Science Fiction, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 6.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2000-11-02, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => After an inadvertant trip through a Heisenberg            Uncertainty Device, James Salway discovers the problems            of being quantum., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk110 
+xPath => catalog/book/author/, Data => O'Brien, Tim, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => Microsoft .NET: The Programming Bible, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Computer, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 36.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2000-12-09, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => Microsoft's .NET initiative is explored in            detail in this deep programmer's reference., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk111 
+xPath => catalog/book/author/, Data => O'Brien, Tim, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => MSXML3: A Comprehensive Guide, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Computer, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 36.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2000-12-01, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => The Microsoft MSXML3 parser is covered in            detail, with attention to XML DOM interfaces, XSLT processing,            SAX and more., Depth => 3, Attributes => 
+xPath => catalog/book/, Data => PARENT_NODE, Depth => 2, Attributes => id: bk112 
+xPath => catalog/book/author/, Data => Galos, Mike, Depth => 3, Attributes => 
+xPath => catalog/book/title/, Data => Visual Studio 7: A Comprehensive Guide, Depth => 3, Attributes => 
+xPath => catalog/book/genre/, Data => Computer, Depth => 3, Attributes => 
+xPath => catalog/book/price/, Data => 49.95, Depth => 3, Attributes => 
+xPath => catalog/book/publish_date/, Data => 2001-04-16, Depth => 3, Attributes => 
+xPath => catalog/book/description/, Data => Microsoft Visual Studio 7 is explored in depth,            looking at how Visual Basic, Visual C++, C#, and ASP+ are            integrated into a comprehensive development            environment., Depth => 3, Attributes => 

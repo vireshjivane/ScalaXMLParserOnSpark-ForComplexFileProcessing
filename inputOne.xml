@@ -1,0 +1,34 @@
+<data>
+
+    <authors>
+        <author>
+            <name>Robert Roberts</name>
+            <address>10 Tenth St, Decapolis</address>
+            <editor>Ella Ellis</editor>
+            <ms type="blob" globalAccess = "true" >ftp://docs/rr-10</ms>
+            <born>1960/05/26</born>
+        </author>
+
+        <author>
+            <name>Tom Thomas</name>
+            <address>2 Second Av, Duo-Duo</address>
+            <editor>Ella Ellis</editor>
+            <ms type="blob">ftp://docs/tt-2</ms>
+        </author>
+
+        <author>
+            <name>Mark Marks</name>
+            <address>1 Premier, Maintown</address>
+            <editor>Ella Ellis</editor>
+            <ms type="blob">ftp://docs/mm-1</ms>
+        </author>
+    </authors>
+
+    <editors>
+        <editor>
+            <name>Ella Ellis</name>
+            <telephone>7356</telephone>
+        </editor>
+    </editors>
+
+</data>

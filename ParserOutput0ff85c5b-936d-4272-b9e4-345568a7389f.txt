@@ -1,0 +1,21 @@
+xPath => data/authors/, Data => PARENT_NODE, Depth => 2, Attributes => 
+xPath => data/authors/author/, Data => PARENT_NODE, Depth => 3, Attributes => 
+xPath => data/authors/author/name/, Data => Robert Roberts, Depth => 4, Attributes => 
+xPath => data/authors/author/address/, Data => 10 Tenth St, Decapolis, Depth => 4, Attributes => 
+xPath => data/authors/author/editor/, Data => Ella Ellis, Depth => 4, Attributes => 
+xPath => data/authors/author/ms/, Data => ftp://docs/rr-10, Depth => 4, Attributes => globalAccess: true type: blob 
+xPath => data/authors/author/born/, Data => 1960/05/26, Depth => 4, Attributes => 
+xPath => data/authors/author/, Data => PARENT_NODE, Depth => 3, Attributes => 
+xPath => data/authors/author/name/, Data => Tom Thomas, Depth => 4, Attributes => 
+xPath => data/authors/author/address/, Data => 2 Second Av, Duo-Duo, Depth => 4, Attributes => 
+xPath => data/authors/author/editor/, Data => Ella Ellis, Depth => 4, Attributes => 
+xPath => data/authors/author/ms/, Data => ftp://docs/tt-2, Depth => 4, Attributes => type: blob 
+xPath => data/authors/author/, Data => PARENT_NODE, Depth => 3, Attributes => 
+xPath => data/authors/author/name/, Data => Mark Marks, Depth => 4, Attributes => 
+xPath => data/authors/author/address/, Data => 1 Premier, Maintown, Depth => 4, Attributes => 
+xPath => data/authors/author/editor/, Data => Ella Ellis, Depth => 4, Attributes => 
+xPath => data/authors/author/ms/, Data => ftp://docs/mm-1, Depth => 4, Attributes => type: blob 
+xPath => data/editors/, Data => PARENT_NODE, Depth => 2, Attributes => 
+xPath => data/editors/editor/, Data => PARENT_NODE, Depth => 3, Attributes => 
+xPath => data/editors/editor/name/, Data => Ella Ellis, Depth => 4, Attributes => 
+xPath => data/editors/editor/telephone/, Data => 7356, Depth => 4, Attributes => 
